@@ -1,0 +1,7 @@
+---
+- name: sampletest3 playbook
+  hosts: localhost
+  tasks:
+   - debug:
+       msg:
+        - "my sampletest3 playbook"
