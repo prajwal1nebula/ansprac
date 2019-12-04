@@ -1,4 +1,4 @@
 ---
-- import_playbook: /home/prajwal/Documents/ansible_prac/11-9-2019/remote_pull_master/playbooks/test1/test1.yml
-- import_playbook: /home/prajwal/Documents/ansible_prac/11-9-2019/remote_pull_master/playbooks/test2/test2.yml
-- import_playbook: /home/prajwal/Documents/ansible_prac/11-9-2019/remote_pull_master/playbooks/test3/test3.yml
+- import_playbook: /home/prajwal/Documents/ansible_prac/11-9-2019/112319/playbooks/test1/test1.yml
+- import_playbook: /home/prajwal/Documents/ansible_prac/11-9-2019/112319/playbooks/test2/test2.yml
+- import_playbook: /home/prajwal/Documents/ansible_prac/11-9-2019/112319/playbooks/test3/test3.yml
